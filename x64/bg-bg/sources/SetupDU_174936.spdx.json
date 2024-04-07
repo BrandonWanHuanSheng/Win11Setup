@@ -1,0 +1,1408 @@
+{
+  "files": [
+    {
+      "fileName": ".zh-cn/setupprep.exe.mui",
+      "SPDXID": "SPDXRef-File-zh-cn-setupprep.exe.mui-672047DB84A8E66E7AED1AF6191DB3B56DE635A6",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "672047db84a8e66e7aed1af6191db3b56de635a6"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "cef56be1ae54bc2984e23b92a88e1955469e61001dcd0638e8d50ad929ae6129"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".pt-pt/setupprep.exe.mui",
+      "SPDXID": "SPDXRef-File-pt-pt-setupprep.exe.mui-12E2424426F71D865C6458C7450BBC2FF82A8BCC",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "12e2424426f71d865c6458c7450bbc2ff82a8bcc"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7c50507565f27cc73b686b8e867e0690b204d0a67711c07394b9d078a27893f1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".appraiser.dll",
+      "SPDXID": "SPDXRef-File-appraiser.dll-7DD35D5273E2BA9888CFCAE951CB77C41840F2FF",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7dd35d5273e2ba9888cfcae951cb77c41840f2ff"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e27205385fb618a9f4e542438f4dd12bbf89a2babf39c95d337ed3935a9b39b6"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".replacementmanifests/twinui-replacement.man",
+      "SPDXID": "SPDXRef-File-replacementmanifests-twinui-replacement.man-D987603332FA171A0C449756F7AB48B7DCA9E763",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d987603332fa171a0c449756f7ab48b7dca9e763"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "76d3f7fc1dd1e3623b0a87db60a6d13b5a96ca620557c9a3048952038e4abc24"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".hr-hr/setupprep.exe.mui",
+      "SPDXID": "SPDXRef-File-hr-hr-setupprep.exe.mui-E896B12F21C4F98D58D379294E2FDEF98536DFAF",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e896b12f21c4f98d58d379294e2fdef98536dfaf"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e554d4fbfdc331c1f0eeb6c86f7e35d0662f171c218f48d5111642b2881b215f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".setupplatform.exe",
+      "SPDXID": "SPDXRef-File-setupplatform.exe-23ACF0B7C1925BAA52700D5A7C2DC7417DA3FA88",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "23acf0b7c1925baa52700d5a7c2dc7417da3fa88"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "425a91028c6e3901a0130095c631015b3af1cfb111448418a1728ab39531d69a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".migcore.dll",
+      "SPDXID": "SPDXRef-File-migcore.dll-775FD182A1A0EE36182A745C2B67FC646AA4CF94",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "775fd182a1a0ee36182a745c2b67fc646aa4cf94"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c81d0b436467b16b485cc87cec76453b41cce058c3b7416cfb158b607b3a5ae5"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".en-us/setupprep.exe.mui",
+      "SPDXID": "SPDXRef-File-en-us-setupprep.exe.mui-55F733414ED0DD995B1E5F14E3DD309E99F4F71C",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "55f733414ed0dd995b1e5f14e3dd309e99f4f71c"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e7022335d5e9f920c2066562db9d94330a0a5aa1d4aabd4bcb0b44d1fc068c79"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".bg-bg/setupprep.exe.mui",
+      "SPDXID": "SPDXRef-File-bg-bg-setupprep.exe.mui-4303C76834028B12DAAA8C0C60C8BAF1B92B03B2",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4303c76834028b12daaa8c0c60c8baf1b92b03b2"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ad3a3d0322735248eb704493722f8f2c36662b8d716eb5ea26bd9ce4c6055553"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".upgradeagent.dll",
+      "SPDXID": "SPDXRef-File-upgradeagent.dll-23B8F48DC3EF37AE51A982C60E4F32717B0FECE9",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "23b8f48dc3ef37ae51a982c60e4f32717b0fece9"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "22c69d7b46336ce91920f50752c3e018fe8d7fbe2d894fca75bc6de06383d861"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".nl-nl/setupprep.exe.mui",
+      "SPDXID": "SPDXRef-File-nl-nl-setupprep.exe.mui-41DC060CDED73DFED90EE2C9276591E492D9D337",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "41dc060cded73dfed90ee2c9276591e492d9d337"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f4425c3d1f6d41023e5e8842e00b6bd131583a219422c41aa405bc58ebf7abd9"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".zh-tw/setupprep.exe.mui",
+      "SPDXID": "SPDXRef-File-zh-tw-setupprep.exe.mui-55D033072ABACC5E472CB152493216D2AAF3D9EA",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "55d033072abacc5e472cb152493216d2aaf3d9ea"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9ac4122a2794e2f6bd29c9e947ba916d42089d29139900d60ecdc2052fec0d4d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".replacementmanifests/microsoft-edge-migration-plugin/edgemigrationplugin.dll",
+      "SPDXID": "SPDXRef-File-replacementmanifests-microsoft-edge-migration-plugin-edgemigrationplugin.dll-9353F1549189E535645BFD2AD4AA86E93832B0B8",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9353f1549189e535645bfd2ad4aa86e93832b0b8"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d59c18bbc1e24f290f99d90f5f6155714d4acbb6a431a4c6867faefb4a200d6a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".fr-ca/setupprep.exe.mui",
+      "SPDXID": "SPDXRef-File-fr-ca-setupprep.exe.mui-D1296F79AE1AF7D446D64C4E0EB3F548203D7A3F",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d1296f79ae1af7d446d64c4e0eb3f548203d7a3f"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5a38ef2760c27856ba189dfb7106d5b759b57ebb6e37d8f05ed134c9f3be8f66"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".setupcore.dll",
+      "SPDXID": "SPDXRef-File-setupcore.dll-B45D1626BBFB5121C3D2F687F753354262A9F03E",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b45d1626bbfb5121c3d2f687f753354262a9f03e"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ddf8a50f1289c2261bed8b6bef4875ef597aa3d2238487ce5afb7a865939124e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".replacementmanifests/microsoft-hyper-v-migration-replacement.man",
+      "SPDXID": "SPDXRef-File-replacementmanifests-microsoft-hyper-v-migration-replacement.man-41B0B5C49321F34CF7F8456F5097D7B71F1D4145",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "41b0b5c49321f34cf7f8456f5097d7b71f1d4145"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "bdcf2d17a726521b3bf7b7e9b421e4c6c4057d3c9a818969a10bb4ee325f6f91"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".lv-lv/setupprep.exe.mui",
+      "SPDXID": "SPDXRef-File-lv-lv-setupprep.exe.mui-2D4D20BE881E4C6942AA076E0FCCAF745A5C166F",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2d4d20be881e4c6942aa076e0fccaf745a5c166f"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "216f47b85de6c7f93d026d5edc43f9e0eff59bfad602b3421fcfb68365bfc47d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".fr-fr/setupprep.exe.mui",
+      "SPDXID": "SPDXRef-File-fr-fr-setupprep.exe.mui-9EFA7BF99633CC8B1516CB3D9C4581B7C19990B5",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9efa7bf99633cc8b1516cb3d9c4581b7c19990b5"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c6b2bd2d3e7e9a840581d3b3904e848a16cbd15c27b360420f8b11c417a48d71"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".setup.exe",
+      "SPDXID": "SPDXRef-File-setup.exe-80D4BE3A2DDA83680E4D064EE78C3D7D83864239",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "80d4be3a2dda83680e4d064ee78c3d7d83864239"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e9a6913654af0c45dafb60c7a8625767c9eafc5678d72fce0d402a59c882ab17"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".it-it/setupprep.exe.mui",
+      "SPDXID": "SPDXRef-File-it-it-setupprep.exe.mui-35754FE7B02E98E7876732E574D7528FC50781C0",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "35754fe7b02e98e7876732e574d7528fc50781c0"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f27e9ed9930f20fb7a9d1e272d74c40be6174a2e2dde85865a892485977f7b57"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".sl-si/setupprep.exe.mui",
+      "SPDXID": "SPDXRef-File-sl-si-setupprep.exe.mui-332EB7C46A00C01C88EAD19BA93E92CD5AFC75E7",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "332eb7c46a00c01c88ead19ba93e92cd5afc75e7"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0784a781b77e206fc0aed6e139ce05595a5c0aa48cdaab23d3b851e284779a6a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".migres.dll",
+      "SPDXID": "SPDXRef-File-migres.dll-283933F7838A82EDAA215031D0B5BB069EB80398",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "283933f7838a82edaa215031d0b5bb069eb80398"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "78b2da7f6d9a662300297a4934348341e092fb3f83e9019f8442c8467bad64af"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".es-es/setupprep.exe.mui",
+      "SPDXID": "SPDXRef-File-es-es-setupprep.exe.mui-29E4D4CC03F48A13D49578903C620D2F63FB1380",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "29e4d4cc03f48a13d49578903c620d2f63fb1380"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8d6eeeb7f0746e73ed73be2dd055230be4038050e66f03b2546927a058bef02a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".cmi2migxml.dll",
+      "SPDXID": "SPDXRef-File-cmi2migxml.dll-C6E31B221E59A2FB3D2B788DE9AD7BB0A8F741E2",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c6e31b221e59a2fb3d2b788de9ad7bb0a8f741e2"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6b2a589fbb005daead525fea2ff9981384635b0a4b62206466b30f135fb671b5"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".ro-ro/setupprep.exe.mui",
+      "SPDXID": "SPDXRef-File-ro-ro-setupprep.exe.mui-2E978E30C739BC4BC15C9AEA597C20CF60B8848D",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2e978e30c739bc4bc15c9aea597c20cf60b8848d"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0e3b8a76886ed9d18ecb67c04a131b8ae18441f4203e67b5c32ac4baf2d0bb07"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".hu-hu/setupprep.exe.mui",
+      "SPDXID": "SPDXRef-File-hu-hu-setupprep.exe.mui-519E9F2148CB985774DD0D9F04DAB28BD2368A6F",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "519e9f2148cb985774dd0d9f04dab28bd2368a6f"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ab8efcfb90f637c60efc145c41efeebbda53ff67620b2cb625e58ca22803193b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".setupplatform.dll",
+      "SPDXID": "SPDXRef-File-setupplatform.dll-82919EC752E994E787AD5CDB9B0752824A460942",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "82919ec752e994e787ad5cdb9b0752824a460942"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0d731110108e18d919754b196964f200c495d55c3f961b28232a9804f3e6377a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".lt-lt/setupprep.exe.mui",
+      "SPDXID": "SPDXRef-File-lt-lt-setupprep.exe.mui-F501D6575522881BBD59848419A05BB5A55CC14E",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f501d6575522881bbd59848419a05bb5a55cc14e"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "43c8289395fb6a6e9b640d32cab4b15a48b84715c482e0b981f64d29c07729f8"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".th-th/setupprep.exe.mui",
+      "SPDXID": "SPDXRef-File-th-th-setupprep.exe.mui-1C3B2FA5293C715BD6EAB86354645491FA611D6D",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1c3b2fa5293c715bd6eab86354645491fa611d6d"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7249b22062f9916ee92da66feb9955cfdc6582b16c1aaf83f25114e34d70e8a3"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".mxeagent.dll",
+      "SPDXID": "SPDXRef-File-mxeagent.dll-89F80A3A2A819C567AF8DCEA6CFC4BFBC55A62FD",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "89f80a3a2a819c567af8dcea6cfc4bfbc55a62fd"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2d725c7a1e87bb6e5223f9193c816fda18fb96fc1d9bee73e50bf64d6136fbd9"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".et-ee/setupprep.exe.mui",
+      "SPDXID": "SPDXRef-File-et-ee-setupprep.exe.mui-0CCE77AB989A39CE7F13AC8D9768561F6FD7A834",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0cce77ab989a39ce7f13ac8d9768561f6fd7a834"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3c28cfc40c70d21852d93d933b36745c7a0d9343e90b7ea71e86aaf00fa089d2"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".cs-cz/setupprep.exe.mui",
+      "SPDXID": "SPDXRef-File-cs-cz-setupprep.exe.mui-3EED280232C43023BC6B2894E54BE253781874DB",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3eed280232c43023bc6b2894e54be253781874db"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c5c649a5b409dbc86ee7620f9b7486d61609b2d078cb8c79404431857fdced08"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".setupplatform.cfg",
+      "SPDXID": "SPDXRef-File-setupplatform.cfg-813C6BFC511B10F1C2E3A970BA8AAB43DFC7B7BC",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "813c6bfc511b10f1c2e3a970ba8aab43dfc7b7bc"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "731074381d0449c3102e235620022d5e34dde373840ea414b3a9e02dc404af5b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".ko-kr/setupprep.exe.mui",
+      "SPDXID": "SPDXRef-File-ko-kr-setupprep.exe.mui-9A8375735F1CA1827BF1D6973FD25C669EE09E7B",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9a8375735f1ca1827bf1d6973fd25c669ee09e7b"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "25b7dba4647aed7b429613ae35112df9ee1fc760ff6b20e462519b1370ad21b7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".sk-sk/setupprep.exe.mui",
+      "SPDXID": "SPDXRef-File-sk-sk-setupprep.exe.mui-6B90A22A26E60D20F5D59DA805BAFFFBC490393E",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6b90a22a26e60d20f5d59da805bafffbc490393e"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f563854e6ece1c9f5420f21f26a85e7ac3f73312f1eed54e8bd19598f8545a65"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".en-gb/setupprep.exe.mui",
+      "SPDXID": "SPDXRef-File-en-gb-setupprep.exe.mui-E7359D6E10D72C33D1354C721AF45DE1D626126C",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e7359d6e10d72c33d1354c721af45de1d626126c"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3a8c9c2d3248d18b3aa8ff6a9f1e73ca9e40776efb5cd8944f2684ccb13f9931"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".ar-sa/setupprep.exe.mui",
+      "SPDXID": "SPDXRef-File-ar-sa-setupprep.exe.mui-2804B20D433904BC67E6A1F681C2B1684A77F5F0",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2804b20d433904bc67e6a1f681c2b1684a77f5f0"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d36f32b41fe56cb24d045be426124a7290659163331e124a051086af072de571"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".mighost.exe",
+      "SPDXID": "SPDXRef-File-mighost.exe-0CBED3FDC262B863C0297F0BC60C55BC5EEC1579",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0cbed3fdc262b863c0297f0bc60c55bc5eec1579"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2f64a3ad91abc1dcc95be0461cfd2c6c1c146d1c398d53cb441315f6f8765cff"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".updateagent.dll",
+      "SPDXID": "SPDXRef-File-updateagent.dll-6ACDBE66508DB77B3183999F6D26135FAAC2FD52",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6acdbe66508db77b3183999f6d26135faac2fd52"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "43b5a0e85e2b5710c820eb4f824cdd57ced20cbff0d030d0bb72a18e900be312"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".tr-tr/setupprep.exe.mui",
+      "SPDXID": "SPDXRef-File-tr-tr-setupprep.exe.mui-A73C953D3107B9897270CB591479899670E165B2",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a73c953d3107b9897270cb591479899670e165b2"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "67fa60163192f75e82bd4afbca87d29880a316d43e6be5edf732168299f25a44"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".pl-pl/setupprep.exe.mui",
+      "SPDXID": "SPDXRef-File-pl-pl-setupprep.exe.mui-3444999597B720516D607C5C886BBDB064B862C7",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3444999597b720516d607c5c886bbdb064b862c7"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f16a8c0ea0ec22e579b5b43b25fba627dbda9dbc345ac77f23ab1e1520d97517"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".migsys.dll",
+      "SPDXID": "SPDXRef-File-migsys.dll-7D759AE636B812D45CC37EAE0B0C725D0C8503A5",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7d759ae636b812d45cc37eae0b0c725d0c8503a5"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5eadefd283d6e0dbc414304505cd847d275ebc6bb90752fc5f4520fc08e506b8"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".fi-fi/setupprep.exe.mui",
+      "SPDXID": "SPDXRef-File-fi-fi-setupprep.exe.mui-1796B30354476E26BC01B944290F8F3238401790",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1796b30354476e26bc01b944290f8f3238401790"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "40d4551960dc2c5a21dbe332f7d293df31276cf6df419fae6d6cf5c8b86f32ff"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".winsetup.dll",
+      "SPDXID": "SPDXRef-File-winsetup.dll-0E242227E7D519D26658D986C3B55118AF84DAC4",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0e242227e7d519d26658d986c3b55118af84dac4"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "247fd007774aacbcc21acd3e211c714b12e29af194a5d6e8d4e81d992f2d4d78"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".csiagent.dll",
+      "SPDXID": "SPDXRef-File-csiagent.dll-621E5560DCF7D2A3613136F39FA03B037772C4F4",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "621e5560dcf7d2a3613136f39fa03b037772c4f4"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b9e19270e36943d22e86ab5882e1f067177a9709eda956ce4e9db05caaa233e0"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".pt-br/setupprep.exe.mui",
+      "SPDXID": "SPDXRef-File-pt-br-setupprep.exe.mui-93FBD7E4AC42314A3880DA56B1C8002267593D94",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "93fbd7e4ac42314a3880da56b1c8002267593d94"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ebcb8bfce6cac68242c0f8599f44c875ae53a84bda56c742fb11593bc4809dcd"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".es-mx/setupprep.exe.mui",
+      "SPDXID": "SPDXRef-File-es-mx-setupprep.exe.mui-55E054D9ED7E6D5BB094924561A9C9392DCE4F46",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "55e054d9ed7e6d5bb094924561a9c9392dce4f46"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5c56998303122761690d490b1f3d3bed7e9297f04615f9c590b769f6ce5efa27"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".ru-ru/setupprep.exe.mui",
+      "SPDXID": "SPDXRef-File-ru-ru-setupprep.exe.mui-27469CBFE003E718AEBAA5704E8D07F39C45C548",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "27469cbfe003e718aebaa5704e8d07f39c45c548"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3644c3191729d512705e8c570dd509058b8807a7f99ceca033e770b79594e8f7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".ja-jp/setupprep.exe.mui",
+      "SPDXID": "SPDXRef-File-ja-jp-setupprep.exe.mui-7939B1141F5C35FB9CA2102DC09C3A26F6157C86",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7939b1141f5c35fb9ca2102dc09c3a26f6157c86"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "bcf814d057bda63401001da6d42117650e6bf5033b0ec19c0c9f83adb4c7a98f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".el-gr/setupprep.exe.mui",
+      "SPDXID": "SPDXRef-File-el-gr-setupprep.exe.mui-38DD9FC8776532B8249436339E97282C76505BDF",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "38dd9fc8776532b8249436339e97282c76505bdf"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9fc8195eb75d8c72791222ba4e5c74f1e440e35aba32e6f114cb326ada0aa9a6"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".setupprep.exe",
+      "SPDXID": "SPDXRef-File-setupprep.exe-1CF713A67C4F685A6FA42C64FF420AD24D4FEA1F",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1cf713a67c4f685a6fa42c64ff420ad24d4fea1f"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b945e088e8fdee46bdf587be31dd3817b494ad9b1950a6916b16de4220be3881"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".appraiserres.dll",
+      "SPDXID": "SPDXRef-File-appraiserres.dll-A190A14A30A69FD6AE9E02DF70D9609C20CE2574",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a190a14a30a69fd6ae9e02df70d9609c20ce2574"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2867d2e7abb7f0f5a3e7fd034e086cfc0bd62ae09c61f1eca406f6e1c4e5eed6"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".mediasetupuimgr.dll",
+      "SPDXID": "SPDXRef-File-mediasetupuimgr.dll-460B5A3D17D3C5D3EC56DFB51FFCBD437016A23A",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "460b5a3d17d3c5d3ec56dfb51ffcbd437016a23a"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8d546cc5c4b7aeaa53dcb8861ae94f511231e32f2fad1294b3ef51274e1a25ed"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".sv-se/setupprep.exe.mui",
+      "SPDXID": "SPDXRef-File-sv-se-setupprep.exe.mui-4FB8B29DEDA15E075C2E3448B506504F6C165C56",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4fb8b29deda15e075c2e3448b506504f6c165c56"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "bdb57c750931b2b5563da34df1ffdf21e0b2291afea541d536bebf588f407803"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".migstore.dll",
+      "SPDXID": "SPDXRef-File-migstore.dll-BC306426A6FA2A11011F78DEF109ADBD3974CDAA",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "bc306426a6fa2a11011f78def109adbd3974cdaa"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6951383992a807c8880a0d1bea3d877c0b1b36eaeb42969b58d750c714acfc68"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".winsetupmon.sys",
+      "SPDXID": "SPDXRef-File-winsetupmon.sys-B97949B23E8716D0E977245DE457178B89C72F6A",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b97949b23e8716d0e977245de457178b89c72f6a"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c6c5cbdcf2def6378280cc2dd0697c8d0c35f2bb04022901acf29c4ce9cf67af"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".reagent.dll",
+      "SPDXID": "SPDXRef-File-reagent.dll-D0579CE806778861D7C2663FAA976A45DA812D84",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d0579ce806778861d7c2663faa976a45da812d84"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ba241426aff3681327b8f209b51ca6a56d2ce7e74691f2319f5834716818bf69"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".he-il/setupprep.exe.mui",
+      "SPDXID": "SPDXRef-File-he-il-setupprep.exe.mui-E86E6147583E5947D4C9E5DAFCD7A34692CC28BF",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e86e6147583e5947d4c9e5dafcd7a34692cc28bf"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "81bfaf06c8a18e8e09855d622f109bb42f19fe9db63f20e011dd3823e11c03e8"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".da-dk/setupprep.exe.mui",
+      "SPDXID": "SPDXRef-File-da-dk-setupprep.exe.mui-EB75AA0050FEF9DD8BABA00F79F1B9B0A1FF01EF",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "eb75aa0050fef9dd8baba00f79f1b9b0a1ff01ef"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ecc422970cc628cf24785aae8ec67267ee17d04a6d86059d1b6a519407496939"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".sr-latn-rs/setupprep.exe.mui",
+      "SPDXID": "SPDXRef-File-sr-latn-rs-setupprep.exe.mui-1F748031C6F6DFA449A8AF8CDC2A61C1B44D31F2",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1f748031c6f6dfa449a8af8cdc2a61c1b44d31f2"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1273d99ca57e71afb5d37cedc8f48ad5729970545cf76334cd11dd7b19e1dee7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".migisol.dll",
+      "SPDXID": "SPDXRef-File-migisol.dll-8C38037D3A1851412CF83B6BE03537B9CC0AAF70",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8c38037d3a1851412cf83b6be03537b9cc0aaf70"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0e0e4da7ba46e88c814a6ecf2791be95d64e1c1061e9762b9c30465334faf035"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".uk-ua/setupprep.exe.mui",
+      "SPDXID": "SPDXRef-File-uk-ua-setupprep.exe.mui-B3CCBFCCD2BC5EA806E7075A149DA7FDE43961E6",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b3ccbfccd2bc5ea806e7075a149da7fde43961e6"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "cbe2ab68173925132651bdf8ca70278f4dbb221b0d9c4ad5af185171fd80fc91"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".nb-no/setupprep.exe.mui",
+      "SPDXID": "SPDXRef-File-nb-no-setupprep.exe.mui-55AE5BF6CFBCFE07DBB4BC3BC221BFB8C9FCD0EB",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "55ae5bf6cfbcfe07dbb4bc3bc221bfb8c9fcd0eb"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1266a3357e46cb4a46195fa49921df205c3374bb98c3a594a7615879391ac430"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".appraiser.sdb",
+      "SPDXID": "SPDXRef-File-appraiser.sdb-ACA2B846CA890DBC5069BABA8558FEF9E0DDA4B5",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "aca2b846ca890dbc5069baba8558fef9e0dda4b5"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c22b39cfa927fe31564548dd52aed5fabf55388e836f0861fd8d0df214b618bc"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".replacementmanifests/microsoft-windows-coresystem-initmachineconfig-replacement.man",
+      "SPDXID": "SPDXRef-File-replacementmanifests-microsoft-windows-coresystem-initmachineconfig-replacement.man-2DEC1F0174F5177B45EE5A5B32485B6336D64958",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2dec1f0174f5177b45ee5a5b32485b6336d64958"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "cb6f590b23bf376af17a7b1fd1a738f2bb883a49482d6e4c18a88de70ca743d2"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".imagelib.dll",
+      "SPDXID": "SPDXRef-File-imagelib.dll-4925501B910597E3762E3B293B8EBB5D06F8FBAE",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4925501b910597e3762e3b293b8ebb5d06f8fbae"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5d37a6e6e750d79b82d0bdd046675a192b58ea1cecfa5030672b89d1b3206e4d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".de-de/setupprep.exe.mui",
+      "SPDXID": "SPDXRef-File-de-de-setupprep.exe.mui-27E24DA7A6E23701B448703A07B4644D5F7C3F1A",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "27e24da7a6e23701b448703a07b4644d5f7c3f1a"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d23ea7433f63c070dd1885e19c6de528a116e2ab86a5fe8081b07aeb646e4c33"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".acmigration.dll",
+      "SPDXID": "SPDXRef-File-acmigration.dll-E990E9805CBE8E7E39A05C93A613147E11E305CA",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e990e9805cbe8e7e39a05c93a613147e11e305ca"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "aa1bf3a8b87a2f7465325df718a926df56206780f1d8109003b06ab3b42a4e0a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    }
+  ],
+  "packages": [
+    {
+      "name": "Windows11.0-KB5033205-x64.cab",
+      "SPDXID": "SPDXRef-RootPackage",
+      "downloadLocation": "NOASSERTION",
+      "packageVerificationCode": {
+        "packageVerificationCodeValue": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+      },
+      "filesAnalyzed": true,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "10.0.22621.2787",
+      "supplier": "Organization: Microsoft",
+      "hasFiles": [
+        "SPDXRef-File-da-dk-setupprep.exe.mui-EB75AA0050FEF9DD8BABA00F79F1B9B0A1FF01EF",
+        "SPDXRef-File-he-il-setupprep.exe.mui-E86E6147583E5947D4C9E5DAFCD7A34692CC28BF",
+        "SPDXRef-File-reagent.dll-D0579CE806778861D7C2663FAA976A45DA812D84",
+        "SPDXRef-File-winsetupmon.sys-B97949B23E8716D0E977245DE457178B89C72F6A",
+        "SPDXRef-File-migstore.dll-BC306426A6FA2A11011F78DEF109ADBD3974CDAA",
+        "SPDXRef-File-sv-se-setupprep.exe.mui-4FB8B29DEDA15E075C2E3448B506504F6C165C56",
+        "SPDXRef-File-mediasetupuimgr.dll-460B5A3D17D3C5D3EC56DFB51FFCBD437016A23A",
+        "SPDXRef-File-setupprep.exe-1CF713A67C4F685A6FA42C64FF420AD24D4FEA1F",
+        "SPDXRef-File-appraiserres.dll-A190A14A30A69FD6AE9E02DF70D9609C20CE2574",
+        "SPDXRef-File-el-gr-setupprep.exe.mui-38DD9FC8776532B8249436339E97282C76505BDF",
+        "SPDXRef-File-ja-jp-setupprep.exe.mui-7939B1141F5C35FB9CA2102DC09C3A26F6157C86",
+        "SPDXRef-File-ru-ru-setupprep.exe.mui-27469CBFE003E718AEBAA5704E8D07F39C45C548",
+        "SPDXRef-File-es-mx-setupprep.exe.mui-55E054D9ED7E6D5BB094924561A9C9392DCE4F46",
+        "SPDXRef-File-pt-br-setupprep.exe.mui-93FBD7E4AC42314A3880DA56B1C8002267593D94",
+        "SPDXRef-File-winsetup.dll-0E242227E7D519D26658D986C3B55118AF84DAC4",
+        "SPDXRef-File-migsys.dll-7D759AE636B812D45CC37EAE0B0C725D0C8503A5",
+        "SPDXRef-File-tr-tr-setupprep.exe.mui-A73C953D3107B9897270CB591479899670E165B2",
+        "SPDXRef-File-csiagent.dll-621E5560DCF7D2A3613136F39FA03B037772C4F4",
+        "SPDXRef-File-fi-fi-setupprep.exe.mui-1796B30354476E26BC01B944290F8F3238401790",
+        "SPDXRef-File-pl-pl-setupprep.exe.mui-3444999597B720516D607C5C886BBDB064B862C7",
+        "SPDXRef-File-updateagent.dll-6ACDBE66508DB77B3183999F6D26135FAAC2FD52",
+        "SPDXRef-File-mighost.exe-0CBED3FDC262B863C0297F0BC60C55BC5EEC1579",
+        "SPDXRef-File-sk-sk-setupprep.exe.mui-6B90A22A26E60D20F5D59DA805BAFFFBC490393E",
+        "SPDXRef-File-ko-kr-setupprep.exe.mui-9A8375735F1CA1827BF1D6973FD25C669EE09E7B",
+        "SPDXRef-File-setupplatform.cfg-813C6BFC511B10F1C2E3A970BA8AAB43DFC7B7BC",
+        "SPDXRef-File-acmigration.dll-E990E9805CBE8E7E39A05C93A613147E11E305CA",
+        "SPDXRef-File-de-de-setupprep.exe.mui-27E24DA7A6E23701B448703A07B4644D5F7C3F1A",
+        "SPDXRef-File-imagelib.dll-4925501B910597E3762E3B293B8EBB5D06F8FBAE",
+        "SPDXRef-File-replacementmanifests-microsoft-windows-coresystem-initmachineconfig-replacement.man-2DEC1F0174F5177B45EE5A5B32485B6336D64958",
+        "SPDXRef-File-appraiser.sdb-ACA2B846CA890DBC5069BABA8558FEF9E0DDA4B5",
+        "SPDXRef-File-nb-no-setupprep.exe.mui-55AE5BF6CFBCFE07DBB4BC3BC221BFB8C9FCD0EB",
+        "SPDXRef-File-uk-ua-setupprep.exe.mui-B3CCBFCCD2BC5EA806E7075A149DA7FDE43961E6",
+        "SPDXRef-File-migisol.dll-8C38037D3A1851412CF83B6BE03537B9CC0AAF70",
+        "SPDXRef-File-sr-latn-rs-setupprep.exe.mui-1F748031C6F6DFA449A8AF8CDC2A61C1B44D31F2",
+        "SPDXRef-File-cs-cz-setupprep.exe.mui-3EED280232C43023BC6B2894E54BE253781874DB",
+        "SPDXRef-File-et-ee-setupprep.exe.mui-0CCE77AB989A39CE7F13AC8D9768561F6FD7A834",
+        "SPDXRef-File-mxeagent.dll-89F80A3A2A819C567AF8DCEA6CFC4BFBC55A62FD",
+        "SPDXRef-File-th-th-setupprep.exe.mui-1C3B2FA5293C715BD6EAB86354645491FA611D6D",
+        "SPDXRef-File-lt-lt-setupprep.exe.mui-F501D6575522881BBD59848419A05BB5A55CC14E",
+        "SPDXRef-File-setupplatform.dll-82919EC752E994E787AD5CDB9B0752824A460942",
+        "SPDXRef-File-hu-hu-setupprep.exe.mui-519E9F2148CB985774DD0D9F04DAB28BD2368A6F",
+        "SPDXRef-File-ro-ro-setupprep.exe.mui-2E978E30C739BC4BC15C9AEA597C20CF60B8848D",
+        "SPDXRef-File-cmi2migxml.dll-C6E31B221E59A2FB3D2B788DE9AD7BB0A8F741E2",
+        "SPDXRef-File-es-es-setupprep.exe.mui-29E4D4CC03F48A13D49578903C620D2F63FB1380",
+        "SPDXRef-File-migres.dll-283933F7838A82EDAA215031D0B5BB069EB80398",
+        "SPDXRef-File-sl-si-setupprep.exe.mui-332EB7C46A00C01C88EAD19BA93E92CD5AFC75E7",
+        "SPDXRef-File-it-it-setupprep.exe.mui-35754FE7B02E98E7876732E574D7528FC50781C0",
+        "SPDXRef-File-setup.exe-80D4BE3A2DDA83680E4D064EE78C3D7D83864239",
+        "SPDXRef-File-fr-fr-setupprep.exe.mui-9EFA7BF99633CC8B1516CB3D9C4581B7C19990B5",
+        "SPDXRef-File-replacementmanifests-microsoft-hyper-v-migration-replacement.man-41B0B5C49321F34CF7F8456F5097D7B71F1D4145",
+        "SPDXRef-File-ar-sa-setupprep.exe.mui-2804B20D433904BC67E6A1F681C2B1684A77F5F0",
+        "SPDXRef-File-en-gb-setupprep.exe.mui-E7359D6E10D72C33D1354C721AF45DE1D626126C",
+        "SPDXRef-File-lv-lv-setupprep.exe.mui-2D4D20BE881E4C6942AA076E0FCCAF745A5C166F",
+        "SPDXRef-File-setupcore.dll-B45D1626BBFB5121C3D2F687F753354262A9F03E",
+        "SPDXRef-File-fr-ca-setupprep.exe.mui-D1296F79AE1AF7D446D64C4E0EB3F548203D7A3F",
+        "SPDXRef-File-replacementmanifests-microsoft-edge-migration-plugin-edgemigrationplugin.dll-9353F1549189E535645BFD2AD4AA86E93832B0B8",
+        "SPDXRef-File-zh-tw-setupprep.exe.mui-55D033072ABACC5E472CB152493216D2AAF3D9EA",
+        "SPDXRef-File-nl-nl-setupprep.exe.mui-41DC060CDED73DFED90EE2C9276591E492D9D337",
+        "SPDXRef-File-upgradeagent.dll-23B8F48DC3EF37AE51A982C60E4F32717B0FECE9",
+        "SPDXRef-File-bg-bg-setupprep.exe.mui-4303C76834028B12DAAA8C0C60C8BAF1B92B03B2",
+        "SPDXRef-File-en-us-setupprep.exe.mui-55F733414ED0DD995B1E5F14E3DD309E99F4F71C",
+        "SPDXRef-File-migcore.dll-775FD182A1A0EE36182A745C2B67FC646AA4CF94",
+        "SPDXRef-File-setupplatform.exe-23ACF0B7C1925BAA52700D5A7C2DC7417DA3FA88",
+        "SPDXRef-File-hr-hr-setupprep.exe.mui-E896B12F21C4F98D58D379294E2FDEF98536DFAF",
+        "SPDXRef-File-replacementmanifests-twinui-replacement.man-D987603332FA171A0C449756F7AB48B7DCA9E763",
+        "SPDXRef-File-appraiser.dll-7DD35D5273E2BA9888CFCAE951CB77C41840F2FF",
+        "SPDXRef-File-pt-pt-setupprep.exe.mui-12E2424426F71D865C6458C7450BBC2FF82A8BCC",
+        "SPDXRef-File-zh-cn-setupprep.exe.mui-672047DB84A8E66E7AED1AF6191DB3B56DE635A6"
+      ]
+    }
+  ],
+  "externalDocumentRefs": [],
+  "relationships": [
+    {
+      "relationshipType": "DESCRIBES",
+      "relatedSpdxElement": "SPDXRef-RootPackage",
+      "spdxElementId": "SPDXRef-DOCUMENT"
+    }
+  ],
+  "spdxVersion": "SPDX-2.2",
+  "dataLicense": "CC0-1.0",
+  "SPDXID": "SPDXRef-DOCUMENT",
+  "name": "Windows11.0-KB5033205-x64.cab 10.0.22621.2787",
+  "documentNamespace": "https://sbom.microsoft/Windows11.0-KB5033205-x64.cab/10.0.22621.2787/OM-gA8nFTkKaxKjcIXv91Q",
+  "creationInfo": {
+    "created": "2023-11-18T14:59:32Z",
+    "creators": [
+      "Organization: Microsoft",
+      "Tool: Microsoft.SBOMTool-0.3.3"
+    ]
+  },
+  "documentDescribes": [
+    "SPDXRef-RootPackage"
+  ]
+}
